@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=discountry&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-
 # 💫 About Me:
 - 🔭 I’m currently working on React/Ethereum
 - 👯 I’m looking to collaborate on Web3.0
