@@ -2,9 +2,6 @@
 
 > Full-Stack Developer & Web3 Builder · [@reactjs](https://github.com/reactjs) · [@freeCodeCamp](https://github.com/freeCodeCamp) · [@docschina](https://github.com/docschina)
 
-Building **[RitMEX](https://ritmex.one)** — an all-in-one crypto data analytics platform.  
-Shipping products from React UIs to Solidity contracts to trading bots.
-
 ---
 
 ## 🚀 What I'm Building
