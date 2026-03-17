@@ -1,52 +1,65 @@
-<!--
-**discountry/discountry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Disney (discountry)
 
-Here are some ideas to get you started:
+> Full-Stack Developer & Web3 Builder · [@reactjs](https://github.com/reactjs) · [@freeCodeCamp](https://github.com/freeCodeCamp) · [@docschina](https://github.com/docschina)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building **[RitMEX](https://ritmex.one)** — an all-in-one crypto data analytics platform.  
+Shipping products from React UIs to Solidity contracts to trading bots.
 
-# 💫 About Me:
-- 🔭 I’m currently working on React/Ethereum
-- 👯 I’m looking to collaborate on Web3.0
+---
 
-# ✨ Participate in:
+## 🚀 What I'm Building
 
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+| Project | Description |
+|---|---|
+| 📊 [RitMEX](https://ritmex.one) | All-in-one crypto data analytics platform |
+| 🤖 [ritmex-bot](https://github.com/discountry/ritmex-bot) | Algorithmic perp dex trading bot |
 
-# 💻 Tech Stack:
+---
+
+## 💻 Tech Stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-**Frameworks**
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**Devs**
+**Infrastructure**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Prototyping**
-
+![Neon](https://img.shields.io/badge/Neon-%2300E699.svg?style=for-the-badge&logo=neon&logoColor=black)
+![Upstash](https://img.shields.io/badge/Upstash-%2300E9A3.svg?style=for-the-badge&logo=upstash&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=discountry&theme=dark&hide_border=true&show_icons=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=discountry&theme=dark&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Crypto data, DeFi analytics & on-chain tooling
+- React / Next.js open source projects
+- Developer documentation & translations (CN ↔ EN)
+
+---
+
+## 📫 Reach Me
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/discountifu)
+[![Website](https://img.shields.io/badge/ritmex.one-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ritmex.one)
